@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title> Shonen Sushi Bar </title>
 
-
+    <link rel="menucs">
 </head>
 <body style="background-color:#76e6f3; color: #006eff; ">
 
@@ -12,8 +12,47 @@
 <h1> TODAY`S SPECIAL </h1>
 <form> Here we offer the greatest selecion of raw seafood and japanese bits. </form><br><br>
 
-<ul> Salted Salmon with sollz sauce
- Rinsed Rice with Filet Fish </ul>
+<ul>
+    <li> Salted Salmon with sollz sauce </li>
+    <li> Rinsed Rice with Filet Fish </li>
+    <li> Fried Fish Fins with Fig </li>
+</ul>
+
+<h2>Everyday Enjoyable</h2>
+
+
+    <p class="food">
+
+    Salmon bites
+
+        </p>
+
+      <p class="food">
+
+    Sushi rolls with toppings of choice
+
+        </p>
+
+      <p class="food">
+
+    Chicken filled spring rolls
+
+        </p>
+
+      <p class="food">
+
+    Chrunchy rolls of wonderland
+
+        </p>
+
+      <p class="food">
+
+    Wok pasta with chicken bits
+
+        </p>
+
+
+
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
